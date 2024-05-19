@@ -36,7 +36,7 @@ Recommended build dimensions: 250mmx250mmx250mm
 Resolution: 0.2mm or higher quality
 Supports: Not necessary at high resolution, except for jaw.
 Brim: Depending on your build surface a brim may be needed to bed adhesion
-Material: PETG for frame and PVB for transparent covers - PLA can be used but it can melt if left in hot areas or in vehicles
+Material: TPU 98A/95A for the frame or PETG. PLA is not recommended (it will melt in hot weather)
 
 
 ------------------------------------------
