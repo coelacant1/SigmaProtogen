@@ -36,7 +36,7 @@ Recommended build dimensions: 250mmx250mmx250mm
 Resolution: 0.2mm or higher quality
 Supports: Not necessary at high resolution, except for jaw.
 Brim: Depending on your build surface a brim may be needed to bed adhesion
-Material: TPU 98A/95A for the frame or PETG. PLA is not recommended (it will melt in hot weather)
+Material: TPU 98A/95A for the frame if you are printing in your desired color or PETG if you are sanding and painting your protogen. PLA is not recommended (it will melt in hot weather)
 
 
 ------------------------------------------
